@@ -1,0 +1,45 @@
+* {
+-webkit-box-sizing: border-box;
+-moz-box-sizing: border-box;
+box-sizing: border-box;
+ }
+ 
+body {
+    background: #FFCCCC;
+    color: #000;
+    font-family: Calibri, Arial, sans-serif; 
+}
+
+
+h1 { 
+background: #FFCC99; 
+border-radius: 10px 5%;
+}
+
+h2 { color: #FF6666;
+padding: 10px; 
+}
+
+p { 
+font-family: Calibri, Arial, sans-serif;
+padding: 10px;
+
+}
+
+#container {
+width:50%;
+float: left;
+padding: 15px;
+}
+
+#secondchart { 
+width: 50%; 
+float: left;
+padding: 30px;
+border-radius: 30px;
+}
+    
+#floatingparagraph { 
+clear: both;
+}
+        
